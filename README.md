@@ -1,1 +1,1 @@
-HackerRank Solution
+Self-Study on HackerRank problems
